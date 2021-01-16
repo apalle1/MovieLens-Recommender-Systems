@@ -9,6 +9,8 @@ https://www.youtube.com/watch?v=Eeg1DEeWUjA
 
 https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
 
+https://towardsdatascience.com/brief-on-recommender-systems-b86a1068a4dd
+
 **Collaborative Filtering Recommender System** - 
 
 https://www.youtube.com/watch?v=h9gpufJFF-0
