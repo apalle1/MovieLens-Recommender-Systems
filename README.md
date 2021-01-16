@@ -7,6 +7,8 @@ https://medium.com/@chaitanyarb619/recommendation-systems-a-walk-trough-33587fec
 
 https://www.youtube.com/watch?v=Eeg1DEeWUjA
 
+https://towardsdatascience.com/introduction-to-recommender-systems-6c66cf15ada
+
 **Collaborative Filtering Recommender System** - 
 
 https://www.youtube.com/watch?v=h9gpufJFF-0
